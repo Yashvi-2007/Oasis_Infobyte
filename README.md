@@ -1,4 +1,4 @@
-# Oasis_Infobyte
+# Oasis_Infobyte Internship Projects
 This repository contains the projects I created during my OASIS INFOBYTE internship.  
 These projects show my skills in creating functional Python programs, brainstorming ideas, debugging errors, and coming up with creative solutions.
 
