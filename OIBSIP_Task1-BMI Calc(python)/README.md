@@ -36,7 +36,7 @@ This BMI Calculator allows users to:
 
 <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/e82be30c-afc2-4ebd-934c-d3f8903c019b" />
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/b580e22d-3805-48f9-8b9e-d947eda44390" />
+<img width="400" height="999" alt="image" src="https://github.com/user-attachments/assets/bf52a161-d07e-48ff-b24f-9a1c6cdaf5f5" />
 
 <img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/687cd48d-5bf2-433e-9e82-74824d870466" />
 
