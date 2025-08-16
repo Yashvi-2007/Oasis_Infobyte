@@ -23,11 +23,11 @@
 - Enter key support for quick searches
 
 ## 🛠 Technologies Used
-• Language: Python
-• Libraries: requests, json, tkinter (for GUI), threading
-• APIs: OpenWeatherMap API
+-  Language: Python
+- Libraries: requests, json, tkinter (for GUI), threading
+- APIs: OpenWeatherMap API
 
-📊 Outcome
+## 📊 Outcome
 
 - Successfully developed a fully functional desktop weather program
 - Provides instant weather updates with a clean user interface
