@@ -1,25 +1,38 @@
-# 🌦️ OIBSIP_python Task3- Weather App with JavaScript
+# 🌦️ OIBSIP_python Task3- Weather App 
 
-🎯 Objective
-Create a Python program that fetches and displays real-time weather information for a given location, offering users accurate and visually appealing weather updates.
+## 🎯 Objective
 
-📌 Project Description
-The Basic Weather App is designed to provide up-to-date weather information using live data from a weather API. Users can search by city name (or automatically detect location, in the advanced version) to get temperature, humidity, wind speed, and general conditions. The app can be built as a simple command-line tool or as a fully interactive GUI application with weather icons, multiple unit options, and detailed forecasts.
+- Create a Python desktop program for real-time weather information
+- Fetch and display weather data for any city worldwide
+- Provide accurate and visually appealing weather updates through GUI interface
 
-✨ Key Features
-• Fetches real-time weather data from a public weather API
-• Displays essential weather details: temperature, humidity, wind speed, and conditions
-• Supports unit conversion (Celsius ↔ Fahrenheit)
-• Option for automatic location detection (advanced)
-• User-friendly GUI with weather icons (advanced)
-• Error handling for invalid locations or network issues
-• Potential for extended forecasts (hourly/daily)
+## 📌 Project Description
 
-🛠 Technologies Used
+- Desktop GUI application built with Python and Tkinter
+- Uses OpenWeatherMap API for live weather data
+- Features city search functionality with a basic weather display
+- Includes weather icons, unit conversion, and error handling
+  
+## ✨ Key Features
+
+- Fetches real-time weather data from OpenWeatherMap API
+- Displays temperature, feels-like, humidity, pressure, and wind speed
+- Weather condition descriptions with emoji icons
+- Unit conversion toggle (Celsius ↔ Fahrenheit)
+- Input validation and network error handling
+- Enter key support for quick searches
+
+## 🛠 Technologies Used
 • Language: Python
-• Libraries: requests, json, tkinter (for GUI), geocoder (for location detection), Pillow (for icons)
+• Libraries: requests, json, tkinter (for GUI), threading
 • APIs: OpenWeatherMap API
-• Tools: VS Code, Git
 
 📊 Outcome
-Successfully retrieves and displays weather information in a clear format. The GUI version enhances the user experience by including location auto-detection, icons, and multiple unit support, making it useful for both everyday users and travelers who need instant weather updates.
+
+- Successfully developed a fully functional desktop weather program
+- Provides instant weather updates with a clean user interface
+- Combines API integration and GUI development
+- Features unit conversion, weather icons, and responsive design
+- Practical for daily use by anyone needing quick weather information
+
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/ad50834d-8730-4c70-a4fb-9b2b89bde3ee" />
