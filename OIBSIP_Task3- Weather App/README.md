@@ -24,7 +24,7 @@
 
 ## 🛠 Technologies Used
 -  Language: Python
-- Libraries: requests, json, tkinter (for GUI), threading
+- Libraries: requests, tkinter (for GUI), threading
 - APIs: OpenWeatherMap API
 
 ## 📊 Outcome
