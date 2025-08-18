@@ -13,8 +13,9 @@ Features:
 - Accepts height (cm/m/feet/inch) and weight (kg) as inputs
 - calculates BMI using the standard formula
 - Classifies results (Underweight, Normal, Overweight, Obese)
-- Simple and easy-to-use command-line interface
-- 🔗 View Project Folder
+- Simple and easy-to-use
+- View history (saved as csv) and charts
+- [View Project](./OIBSIP_Task1-BMI Calc(Python))
 
 2️⃣ Password Generator with Strength Checker
 A tool that generates strong, random passwords and evaluates their strength.
@@ -23,52 +24,55 @@ Features:
 - Customizable password length and character types (letters, numbers, symbols)
 - Built-in strength meter (Weak, Medium, Strong)
 - Option to copy the generated password to the clipboard
-- Helps promote better password security practice
-- 🔗 View Project Folder
+- Helps promote better password security practices
+- Can also check the strength of the password you have created
+- [View Project](./OIBSIP_Task2-Random Password Generator)
 
 3️⃣ Weather App with Location Detection
-A web-based application that shows real-time weather updates for the user’s location or any city entered.
+A web-based application that shows real-time weather updates for any city entered.
 
 Features:
 
 - Fetches live weather data from OpenWeatherMap API
-- Auto-detects location using geolocation
-- Displays temperature, weather conditions, and icons
-- Responsive and minimalistic design using HTML, CSS, and JavaScript
-- 🔗 View Project Folder
+- Displays temperature & weather conditions
+- Unit conversion toggle (Celsius ↔ Fahrenheit)
+- Input validation and network error handling
+- [View Project](./OIBSIP_Task3- Weather App)
 
 4️⃣ Daily Expense Tracker
 A Python-based application to log, view, and analyse daily expenses.
 
 Features:
 
-- Add and categorise expenses with date and amount
-- View expense summaries for a specific time
-- Stores data locally for future reference
-- Useful for budgeting and personal finance tracking
-- 🔗 View Project Folder
+- Add new expenses with category, description, and amount
+- Summary of Today, This Week, and This Month’s expenses
+- Visualisations:
+  - 📊 Bar chart → Last 7 days’ spending
+  - 🥧 Pie chart → Spending by categories
+- Clear all expenses option with confirmation prompt
+- Input validation and error handling for safe data entry
+- [View Project](./OIBSIP_Task4-Expense Tracker)
 
 ## 🛠️ Technologies Used
 
-Languages: Python, HTML, CSS, JavaScript
+- Languages: Python
 
-Libraries: requests, random, tkinter (for GUI), matplotlib (for charts)
+- Libraries: requests, random, tkinter, matplotlib, pandas, datetime, threading, string, pyperclip
 
-APIs: OpenWeatherMap API (Weather App)
+- APIs: OpenWeatherMap API (Weather App)
 
-Tools: VS Code, Git, GitHub
 
 ## 🎯 Internship Details
 
-Organisation: Oasis Infobyte
+- Organisation: Oasis Infobyte
 
-Type: AICTE Virtual Internship
+- Type: AICTE Virtual Internship
 
-Domain: Python Programming
+- Domain: Python Programming
 
-Duration: 1 Month
+- Duration: 1 Month
 
-Learning Outcome: Hands-on experience in coding, API integration, data visualisation, and building real-world applications.
+- Learning Outcome: Hands-on experience in coding, API integration, data visualisation, and building real-world applications.
 
 ## 🤝 Acknowledgements
 
@@ -78,4 +82,5 @@ I am grateful to Oasis Infobyte and AICTE for providing this opportunity to work
 
 Kansara Yashvi Vishal
 
-📧 Email | 💼 LinkedIn | 🔗 GitHub
+📧 [Email](mailto:yashvikansara789@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/yashvi-kansara-b5293423a/) | 🔗 [GitHub](https://github.com/Yashvi-2007)
+
