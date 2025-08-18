@@ -15,7 +15,7 @@ Features:
 - Classifies results (Underweight, Normal, Overweight, Obese)
 - Simple and easy-to-use
 - View history (saved as csv) and charts
-- [View Project](./OIBSIP_Task1-BMI Calc(Python))
+- [View Project](./OIBSIP_Task1_BMI_Calc)
 
 2️⃣ Password Generator with Strength Checker
 A tool that generates strong, random passwords and evaluates their strength.
@@ -26,7 +26,7 @@ Features:
 - Option to copy the generated password to the clipboard
 - Helps promote better password security practices
 - Can also check the strength of the password you have created
-- [View Project](./OIBSIP_Task2-Random Password Generator)
+- [View Project](./OIBSIP_Task2-Random_Password_Generator)
 
 3️⃣ Weather App with Location Detection
 A web-based application that shows real-time weather updates for any city entered.
@@ -37,7 +37,7 @@ Features:
 - Displays temperature & weather conditions
 - Unit conversion toggle (Celsius ↔ Fahrenheit)
 - Input validation and network error handling
-- [View Project](./OIBSIP_Task3- Weather App)
+- [View Project](./OIBSIP_Task3-Weather_App)
 
 4️⃣ Daily Expense Tracker
 A Python-based application to log, view, and analyse daily expenses.
@@ -51,7 +51,7 @@ Features:
   - 🥧 Pie chart → Spending by categories
 - Clear all expenses option with confirmation prompt
 - Input validation and error handling for safe data entry
-- [View Project](./OIBSIP_Task4-Expense Tracker)
+- [View Project](./OIBSIP_Task4-Expense_Tracker)
 
 ## 🛠️ Technologies Used
 
