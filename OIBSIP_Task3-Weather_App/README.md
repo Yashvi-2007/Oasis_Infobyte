@@ -4,7 +4,7 @@
 
 - Create a Python desktop program for real-time weather information
 - Fetch and display weather data for any city worldwide
-- Provide accurate and visually appealing weather updates through GUI interface
+- Provide accurate and visually appealing weather updates through the GUI interface
 
 ## 📌 Project Description
 
